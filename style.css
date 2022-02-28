@@ -1,0 +1,12 @@
+body{
+    background-color: #242e8e;
+}
+
+#canard{
+    height: 125px;
+    position: absolute;
+}
+#container_game{
+    height: 1000px;
+    width: 500px;
+}
